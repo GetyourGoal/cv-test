@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+    font-size: 20px;
+}
+hr{
+    padding: 2px;
+    background-color: black;
+}
+table{
+    border-collapse: collapse;
+    background-color: blanchedalmond;
+}
+td, tr{
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+}
